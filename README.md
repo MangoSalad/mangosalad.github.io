@@ -1,4 +1,4 @@
-## Philip Glazman
+## About Me
 
 Currently studying Computer Science at Ramapo College of NJ.
 
