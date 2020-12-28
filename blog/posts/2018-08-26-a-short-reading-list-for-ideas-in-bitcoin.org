@@ -1,0 +1,64 @@
+#+title: A Short Reading List for Ideas in Bitcoin
+#+date: <2018-08-26 00:01>
+#+filetags: bitcoin
+#+OPTIONS: toc:nil
+#+OPTIONS: ^:nil
+#+OPTIONS: num:nil
+
+Ideas are powerful because they influence the world around us. Reading the original text that shapes the ideology of Bitcoin developers, influencers, and leaders is a great way to start understanding Bitcoin. The philosophical origins of Bitcoin and its strong community can be linked to the ideas found in modern libertarianism. I’m sharing a list of resources that have helped me understand economics and libertarian philosophy and I hope it is useful to you.
+The motivation of this blog post comes from this [[https://thesaifhouse.wpcomstaging.com/2018/07/22/a-beginners-guide-to-austrian-economics/][blog]] post on Austrian School economics written by Saifedean Ammous. He’s the author of [[https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/][Bitcoin Standard]] which is a must-have book.
+
+* Books
+Henry Hazlitt’s [[https://www.amazon.com/Economics-One-Lesson-Shortest-Understand/dp/0517548232/][Economics in One Lesson]]
+
+Economics in One Lesson is the most digestible book on this list with insight on every page. Hazlitt was able to compress an undergraduate degree in economics to this single book.
+
+Frederic Bastiat’s [[https://www.amazon.com/Law-Frederic-Bastiat/dp/1940177014][The Law]]
+
+Frederic Bastiat’s [[https://www.amazon.com/Economic-Sophisms-Fr%C3%A9d%C3%A9ric-Bastiat/dp/3849687821/][Economic Sophisms]]
+
+Bastiat was an economist in 19th century France. He wrote about opportunity cost, the problem with protectionism, and how the state condones legal plunder.
+
+Milton Friedman’s [[https://www.amazon.com/Capitalism-Freedom-Anniversary-Milton-Friedman/dp/0226264211/][Capitalism and Freedom]]
+
+Milton Friedman’s [[https://www.amazon.com/Free-Choose-Statement-Milton-Friedman/dp/0156334607/][Free to Choose]]
+
+Milton Friedman’s [[https://www.amazon.com/Money-Mischief-Episodes-Monetary-History/dp/015661930X/][Money Mischief]]
+
+If you cannot find the time to read Milton Friedman’s books, do find the time to watch [[https://www.youtube.com/watch?v=GPcot1GTzvY&list=PL10CF0016FC94D2ED][this]] incredible PBS series from the 1980.
+
+FA Hayek’s [[https://www.amazon.com/Constitution-Liberty-Definitive-Collected-Works/dp/0226315398/][The Constitution of Liberty]]
+
+FA Hayek’s [[https://www.amazon.com/Road-Serfdom-Documents-Definitive-Collected/dp/0226320553/][Road to Serfdom]]
+
+Ludwig von Mises’ [[https://www.amazon.com/Human-Action-Ludwig-von-Mises/dp/1610161459/][Human Action]]
+
+One of the definitive texts for the Austrian School of Economics.
+
+James Buchanan’s [[https://www.amazon.com/Politics-Public-Choice-Collected-Buchanan/dp/0865972389/][Politics as Public Choice]]
+
+Public Choice theory is underrated and helps explain why public institutions behave they way they do.
+
+Murray Rothbard’s [[https://www.amazon.com/Ethics-Liberty-Murray-N-Rothbard/dp/0814775594/][Ethics of Liberty]]
+
+Robert Nozick’s [[https://www.amazon.com/Anarchy-State-Utopia-Robert-Nozick/dp/0465051006/][Anarchy, State, and Utopia]]
+* Podcasts
+Russ Robert’s [[http://www.econtalk.org/][EconTalk]]
+
+Tyler Cowen’s [[https://www.conversationswithtyler.com/][Conversation with Tyler]]
+* Blogs
+Marginal Revolution
+
+EconLib
+
+Alt-M
+
+Bleeding Heart Libertarians
+* More Curated Lists
+[[https://www.libertarianism.org/][Libertarianism.org]]
+
+[[http://www.learnliberty.org/][LearnLiberty]]
+
+[[https://fee.org/][Foundation for Economic Education]]
+
+[[https://www.studentsforliberty.org/][Students For Liberty]]
